@@ -1,0 +1,43 @@
+.blog_item_img img {
+	height: 280px;
+}
+.fecha{
+	background: linear-gradient(45deg, black, transparent);
+	position: absolute;
+    bottom: -10px;
+    left: 10px;
+    display: block;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+ .fecha p{
+ 	font-size: 18px;
+    margin-bottom: 0;
+    color: #fff;
+ }
+ .fecha h3{
+ 	font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 0;
+    line-height: 1.2;
+ }
+.letra{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2rem;
+}
+.titulo:hover{
+    color: red;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.row p{
+    color: lightslategrey;
+}
+.row p:hover{
+    font-size: 22px;
+}
+.row span{
+    color: chocolate;
+}
